@@ -1,9 +1,10 @@
 title: Gaganjot SHAN
 #logo: /assets/img/headshot_circle.png
 description: Contact Information
-  - Antibes, France
-  - gagan.shan7@gmail.com
-  - +33766356099
-  - [LinkedIn](https://www.linkedin.com/in/gaganjotshan)
-show_downloads: true
+  Location: Antibes, France  
+  Email: gagan.shan7@gmail.com
+  Phone: +33766356099
+  LinkedIn: [LinkedIn](https://www.linkedin.com/in/gaganjotshan)
+  GitLab: [GitLab] (https://gitlab.eurecom.fr/)
+#show_downloads: true
 theme: jekyll-theme-minimal
