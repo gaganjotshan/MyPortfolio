@@ -1,10 +1,9 @@
 title: Gaganjot SHAN
 #logo: /assets/img/headshot_circle.png
 description: Contact Information
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 #show_downloads: true
 
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
