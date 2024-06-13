@@ -1,11 +1,3 @@
-# Gaganjot Kaur Shan
-
-## Contact Information
-- Antibes, France
-- gagan.shan7@gmail.com
-- +33766356099
-- [LinkedIn](https://www.linkedin.com/in/gaganjotshan)
-
 ## Profile
 Computer Science Engineer  
 Data Analyst and Machine Learning Engineer with a track record of developing innovative algorithms and models to drive business insights and decision-making. Skilled in Python, data analysis and visualization. Committed to ongoing learning and delivering high-quality results.
