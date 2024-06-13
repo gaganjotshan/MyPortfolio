@@ -1,19 +1,23 @@
 title: Gaganjot SHAN
 #logo: /assets/img/headshot_circle.png
 description: Contact Information
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 #show_downloads: true
 
-# Contact Information
-location: Antibes, France  
-email: gagan.shan7@gmail.com
-phone: "+33766356099"
-linkedin: "https://www.linkedin.com/in/gaganjotshan"
-gitlab: "https://gitlab.eurecom.fr/"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# Configuring the URL of your site and its base URL
-#url: "https://gaganjotshan.github.io/MyPortfolio/"
-#baseurl: "/your-repository-name"
+# Optional social links
+social_links:
+  email: gagan.shan7@gmail.com
+  linkedin: gaganjotshan
+  gitlab: https://gitlab.eurecom.fr/
+  location: Antibes, France
+  phone: +33766356099
+
+
 
 # Build settings
 markdown: kramdown
