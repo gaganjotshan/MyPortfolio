@@ -1,10 +1,5 @@
-# Gaganjot SHAN
+## Computer Science Engineer
 
----
-
-## Profile
-
-**Computer Science Engineer**  
 Data Analyst and Machine Learning Engineer with a track record of developing innovative algorithms and models to drive business insights and decision-making. Skilled in Python, data analysis, and visualization. Committed to ongoing learning and delivering high-quality results.
 
 ---
@@ -57,14 +52,16 @@ Data Analyst and Machine Learning Engineer with a track record of developing inn
 
 ## Projects
 
-### [Oscillatory Neural Network for Voice Spoofing Detection] (https://www.canva.com/design/DAFaoooWuuk/DEoVidx7jjQZxpb7F5xkJg/view)
+### Oscillatory Neural Network for Voice Spoofing Detection
 **EURECOM (September 2022 - February 2023)**
+- [Project Link](https://www.canva.com/design/DAFaoooWuuk/DEoVidx7jjQZxpb7F5xkJg/view)
 - Assessed the efficacy of the model in mitigating the EVGP through benchmark assessments.
 - Innovated and optimized the coRNN architecture for synthetic speech detection on ASV spoof 2019 logical attacks database.
 - Significantly boosted model performance by 1.9 percentage points, resulting in a best equal error rate of 6.8%.
 
-### [Event Causality Detection using NLP] (https://gitlab.eurecom.fr/shan/event_detection)
+### Event Causality Detection using NLP
 **EURECOM (January 2022 - June 2022)**
+- [Project Link](https://gitlab.eurecom.fr/shan/event_detection)
 - Attained an 85% accuracy rate on "SemEval-2010 Task 8" building a data-oriented neural network for event detection.
 - Analyzed, processed, and visualized over 10,000 event-related data points, integrating word embeddings.
 - Engineered a scalable and maintainable codebase, adhering to software engineering best practices.
@@ -85,8 +82,8 @@ Data Analyst and Machine Learning Engineer with a track record of developing inn
 
 ## Certifications
 
-- [BCG Data Science Job Simulation, Forage (2024)](https://example.com) *(Update the URL with actual link)*
-- [Power BI Essential Training, LinkedIn Learning (2024)](https://example.com) *(Update the URL with actual link)*
+- [BCG Data Science Job Simulation, Forage (2024)](https://example.com) 
+- [Power BI Essential Training, LinkedIn Learning (2024)](https://example.com) 
 
 ---
 
